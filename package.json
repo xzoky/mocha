@@ -342,6 +342,7 @@
     "markdown-toc": "^1.2.0",
     "markdownlint-cli": "^0.6.0",
     "nps": "^5.7.1",
+    "nps-utils": "^1.5.0",
     "nyc": "^11.2.1",
     "rimraf": "^2.5.2",
     "svgo": "^0.7.2",
